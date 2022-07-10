@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnzoMartines, I'am a 17 years old, born in Brazil
-- 👀 I’m interested in learning programming languages in general, i'm also interested in learning German and Mandarin and go to the gym and play video games.
-- 🌱 I’m currently learning the basics of programming using Javascript
-- 💞️ I’m looking to collaborate on I'm not looking to collaborate currently.
-- 📫 How to reach me you can find me in these social medias IG: @enzo_martines1, Twitter: EnzoMartines3, Discord: naive and gentle#8835 and Gmail: enzo.martines.rezende.ribeiro@gmail.com
+- 👀 I’m interested in learning programming languages in general, i'm also interested in learning German and Mandarin and go to the gym!
+- 🌱 I’m currently learning the Python
+- 💞️ I'm not looking to collaborate or work currently.
+- 📫 How to reach me you can find me in these social medias IG: @enzo_martines1, Twitter: EnzoMartines3, Discord: enzo sees no fun in life zz#8835 or in my Gmail: enzo.martines.rezende.ribeiro@gmail.com
